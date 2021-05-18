@@ -1,4 +1,4 @@
-package Sneha;
+
 public class Reverse {
     public static void main(String[] args) {
         int number=32,b=number, rev=0,x, count=String.valueOf(number).length();

@@ -1,4 +1,4 @@
-package Sneha;
+
 public class Palindrome {
     public static void main(String[] args) {
         String str="madafadam"; int count=str.length(); boolean isPalindrome=true;

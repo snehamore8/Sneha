@@ -1,5 +1,4 @@
-package Sneha;
-import java.util.concurrent.CountDownLatch;
+
 
 public class BinarySearch {
    public static int[] sortedArray={2,9,34,67,89,100};
