@@ -19,6 +19,3 @@ public class KeyValue {
  }
  }
 }
-Given an array find the 3 Integer which add to 0
-
-7 + 2 +( -9)
