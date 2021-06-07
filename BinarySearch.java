@@ -5,7 +5,7 @@ public class BinarySearch {
    public static void main(String[] args) {
       int key=67;
      int position=binSearch(0,(sortedArray.length)-1,key);
-     System.out.println("the key is in index "+position);
+     System.out.println("The key is in index "+position);
    }
    public static int binSearch(int start, int end, int key){
        int mid, count=sortedArray.length;
@@ -29,5 +29,4 @@ public class BinarySearch {
         return -1;
     }
    }
-    
 }
